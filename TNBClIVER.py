@@ -17,13 +17,7 @@ import numpy as np
 import xgboost as xgb
 import os
 
-# =========================
-# Page settings
-# =========================
-st.set_page_config(
-    page_title="TNBC Liver Metastasis Risk Calculator",
-    layout="centered"
-)
+st.title("TNBC Liver Metastasis Risk Calculator")
 
 st.title("TNBC Liver Metastasis Risk Calculator")
 

@@ -169,7 +169,7 @@ x = np.array([
     T_stage_map[T_stage],
     N_stage_map[N_stage],
     Surgery_map[Surgery],
-]).reshape(1, 9)
+]).reshape(1, 10)
 
 # =========================
 # Load model
